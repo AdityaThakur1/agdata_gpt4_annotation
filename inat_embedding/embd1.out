@@ -1,0 +1,13 @@
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: regex in /home/at4932/.local/lib/python3.8/site-packages (2022.10.31)
+WARNING: You are using pip version 20.2.3; however, version 23.0.1 is available.
+You should consider upgrading via the '/share/apps/python/3.8.6/intel/bin/python -m pip install --upgrade pip' command.
+All libraries loaded
+T: 1.9073486328125e-06 sec - Dataset downloaded
+T: 4.458171129226685 sec - Model loaded
+T: 14.553938150405884 sec - Embeddings created
+T: 14.555806636810303 sec - Embeddings saved
+
+real	0m20.829s
+user	0m13.393s
+sys	0m3.818s
