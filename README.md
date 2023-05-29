@@ -1,2 +1,2 @@
-# agdata_gpt4_annotation
+# Insecta GPT4 annotations
 GPT4 annotations for each class of insecta dataset
